@@ -4,3 +4,5 @@
 # Foundry
 cache/
 out/
+
+.vscode
