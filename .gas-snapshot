@@ -1,0 +1,7 @@
+FixedPointMathTest:testFailMulDivDownZeroDenominator() (gas: 5263)
+FixedPointMathTest:testFailMulDivUpZeroDenominator() (gas: 5253)
+FixedPointMathTest:testMulDivDown() (gas: 11878)
+FixedPointMathTest:testMulDivDownEdgeCases() (gas: 6871)
+FixedPointMathTest:testMulDivUp() (gas: 12441)
+FixedPointMathTest:testMulDivUpEdgeCases() (gas: 7079)
+FixedPointMathTest:testRpow() (gas: 9979)
